@@ -1,2 +1,6 @@
-# PYTH826_hwk_answers
-homework answers for pyth826
+# PYTHON 826 Homeworks
+
+Find solutions to homeworks assigned in this repository.
+
+## Table of Contents
+
